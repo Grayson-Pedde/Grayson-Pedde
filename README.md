@@ -18,7 +18,7 @@
 - **2D Printer**
   - [2D printer](https://github.com/Grayson-Pedde/2D-Printer)
   
-- **Current Project: Robotic Welding**
+- **Robotic Welding**
   - [Robotic welding](https://github.com/Grayson-Pedde/Robotic-Welding)
     
     
