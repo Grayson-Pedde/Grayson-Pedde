@@ -3,6 +3,9 @@
 
 ## Electrical Engineering Projects
 
+- **Current Project: Semiconductor Manufacturing**
+  - [Semiconductor](https://github.com/Grayson-Pedde/Semiconductor-Manufacturing/tree/main)
+
 - **Deminer for Ukraine**
   - [Deminer](https://github.com/Grayson-Pedde/Deminer-for-Ukraine)
     
